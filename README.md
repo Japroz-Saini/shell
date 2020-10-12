@@ -15,3 +15,14 @@ export PATH
 PATH="/Library/Frameworks/Python.framework/Versions/3.8/bin:${PATH}"
 export PATH
 ```
+Brew Installs:
+```bash
+brew install iterm2
+brew install fortune
+brew install cowsay
+
+## After this add the `.bash_profile` by entering the following command
+
+cd
+vim .bash_profile
+```
